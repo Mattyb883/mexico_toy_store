@@ -137,22 +137,22 @@ _Both pipelines are retained in the main flow; all other baselines (product-leve
 
 ## Project Structure
 
-mexico_toy_project/
-├── data/
-│ ├── sales.csv
-│ ├── products.csv
-│ ├── stores.csv
-│ ├── inventory.csv
-│ └── calendar.csv
-├── notebooks/
-│ └── mexico_toy_project.ipynb # Main analysis, modeling, visualization
-├── figures/
-│ ├── overall_forecast.png
-│ ├── cluster0_forecast.png
-│ ├── feature_importance.png
-│ └── residual_correction.png
-├── README.md # This file
-└── LICENSE # MIT License
+mexico_toy_project/<br>
+├── data/<br>
+│ ├── sales.csv<br>
+│ ├── products.csv<br>
+│ ├── stores.csv<br>
+│ ├── inventory.csv<br>
+│ └── calendar.csv<br>
+├── notebooks/<br>
+│ └── mexico_toy_project.ipynb # Main analysis, modeling, visualization<br>
+├── figures/<br>
+│ ├── overall_forecast.png<br>
+│ ├── cluster0_forecast.png<br>
+│ ├── feature_importance.png<br>
+│ └── residual_correction.png<br>
+├── README.md # This file<br>
+└── LICENSE # MIT License<br>
 
 ---
 
